@@ -1,0 +1,15 @@
+{
+	"name": "sveltekit-route-intercept-monorepo",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"build": "pnpm -r build",
+		"check": "pnpm -r check",
+		"lint": "pnpm -r lint",
+		"test": "pnpm -r --if-present test",
+		"test:types": "pnpm -r --if-present test:types"
+	},
+	"devDependencies": {
+		"typescript": "^5.9.3"
+	}
+}
