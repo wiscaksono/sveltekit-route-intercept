@@ -1,9 +1,17 @@
 {
 	"name": "@wiscaksono/sveltekit-route-intercept",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"type": "module",
 	"license": "MIT",
 	"description": "Type-safe route interception for SvelteKit",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/wiscaksono/sveltekit-route-intercept.git"
+	},
+	"homepage": "https://github.com/wiscaksono/sveltekit-route-intercept#readme",
+	"bugs": {
+		"url": "https://github.com/wiscaksono/sveltekit-route-intercept/issues"
+	},
 	"keywords": [
 		"svelte",
 		"sveltekit",
